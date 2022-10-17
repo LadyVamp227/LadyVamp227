@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LadyVamp227
-- 👀 I’m interested in programming with PHP, Go, Typescript, Javascript
-- 🌱 I’m currently learning Go
+- 👀 I’m interested in programming with Go, PHP, Typescript
+- 🌱 I’m currently working with Go
 - 💞️ I’m looking to collaborate on Go projects
 - 📫 How to reach me g.rudarska@gmail.com
 
